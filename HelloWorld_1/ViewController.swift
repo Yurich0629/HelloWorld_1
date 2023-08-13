@@ -3,7 +3,7 @@
 //  HelloWorld_1
 //
 //  Created by Илья Десятов on 14.08.2023.
-//
+// repeating after lesson
 
 import UIKit
 
